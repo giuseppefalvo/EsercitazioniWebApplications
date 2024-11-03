@@ -1,0 +1,27 @@
+h1, .nav-link {
+    color: white;
+
+}
+
+.nav-link:hover {
+    color: lightgreen;
+    text-decoration: underline;
+}
+
+h2, h3, h4{
+    color: green;
+}
+
+#CUS\ Cosenza\ photo{
+    width: 100%;
+    height: auto;
+}
+
+.table {
+    border-color: green;
+}
+
+#courseTable th {
+    color: white;
+    background-color: mediumseagreen;
+}
